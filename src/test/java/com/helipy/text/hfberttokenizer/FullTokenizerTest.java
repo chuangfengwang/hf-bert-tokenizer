@@ -12,13 +12,13 @@ import java.util.List;
 
 /**
  * Pack:       com.helipy.text.hfberttokenizer
- * File:       PreprocessTest
+ * File:       FullTokenizerTest
  * Desc:
  *
  * @author wangchuangfeng
  * CreateTime: 2024-03-14 23:50
  */
-class PreprocessTest {
+class FullTokenizerTest {
     private FullTokenizer fullTokenizer;
 
     @BeforeEach
