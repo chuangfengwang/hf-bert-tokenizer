@@ -1,5 +1,5 @@
 namespace py hf_bert_tokenizer
-namespace java com.helipy.biz
+namespace java com.helipy.biz.bert
 
 struct BaseResponse {
     1: required i32 status = 0
