@@ -1,2 +1,2 @@
 transformers==4.30.2
-hf_transfer==0.1.6
+thriftpy2==0.4.20
